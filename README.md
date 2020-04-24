@@ -13,7 +13,7 @@ If your fancy ML translator is even worse, then there is something terribly wron
 - Pure Python. We don't even import any build-in libs, not to mention NLTK etc. 
 - fewer than 300 LOC
 
-### Quality
+### Translation quality
 
 Sample input: 
 > Питательные вещества попадают в живой организм, где усваиваются клетками с целью выработки и накопления энергии, поддержания жизнедеятельности, а также обеспечения ростовых процессов и созревания. Обычно пища делится по происхождению на растительную и животную. 
@@ -23,6 +23,13 @@ output of the NaiveTranslator:
 
 For comparison, the output of the Google Translate:
 > Nutrients enter a living organism, where they are absorbed by cells in order to generate and store energy, support vital functions, and also ensure growth processes and maturation. Usually food is divided by origin into plant and animal.
+
+### How to use
+
+1. dowload this repo. 
+2. cd to the dir where naiveTranslator.py is located
+3. launch it
+4. enter a text to translate and press Enter
 
 ### Dictionary
 
