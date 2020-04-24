@@ -13,6 +13,17 @@ If your fancy ML translator is even worse, then there is something terribly wron
 - Pure Python. We don't even import any build-in libs, not to mention NLTK etc. 
 - fewer than 300 LOC
 
+### Quality
+
+Sample input: 
+> Питательные вещества попадают в живой организм, где усваиваются клетками с целью выработки и накопления энергии, поддержания жизнедеятельности, а также обеспечения ростовых процессов и созревания. Обычно пища делится по происхождению на растительную и животную. 
+
+output of the NaiveTranslator:
+> to fasten sveta from here in alive organ where get along mainland with chain production and repentance energy imitation connect a also security rostov process and ugly usually food see by origin on the grow and stomach
+
+For comparison, the output of the Google Translate:
+> Nutrients enter a living organism, where they are absorbed by cells in order to generate and store energy, support vital functions, and also ensure growth processes and maturation. Usually food is divided by origin into plant and animal.
+
 ### Dictionary
 
 The dictionary was build by google-translating the 12 000 most common words of the spoken Russian.
