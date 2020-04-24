@@ -18,7 +18,7 @@ If your fancy ML translator is even worse, then there is something terribly wron
 Sample input: 
 > Питательные вещества попадают в живой организм, где усваиваются клетками с целью выработки и накопления энергии, поддержания жизнедеятельности, а также обеспечения ростовых процессов и созревания. Обычно пища делится по происхождению на растительную и животную. 
 
-output of the NaiveTranslator:
+Output of the NaiveTranslator:
 > to fasten sveta from here in alive organ where get along mainland with chain production and repentance energy imitation connect a also security rostov process and ugly usually food see by origin on the grow and stomach
 
 For comparison, the output of the Google Translate:
