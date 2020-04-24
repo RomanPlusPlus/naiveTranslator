@@ -24,6 +24,8 @@ Output of the NaiveTranslator:
 For comparison, the output of the Google Translate:
 > Nutrients enter a living organism, where they are absorbed by cells in order to generate and store energy, support vital functions, and also ensure growth processes and maturation. Usually food is divided by origin into plant and animal.
 
+As one can see, the translation quality is terrible. 
+
 ### How to use
 
 1. dowload this repo. 
